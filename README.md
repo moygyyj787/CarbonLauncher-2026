@@ -1,7 +1,4 @@
-# Carbon Launcher
-
-> [!WARNING]
-> This is v1, it is being deprecated as the [v2 branch](//////////////) is being worked on so please do not expect updates here (unless they are major issues)
+# Carbon Launcher 2026 
 
 ![Carbon Launcher](https://github.com/ScrappySM/CarbonLauncher/blob/main/screenshot.png)
 
